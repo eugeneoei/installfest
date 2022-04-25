@@ -1,5 +1,7 @@
 # Installfest
 
+Here you will find the different set of instuctions for your installation. Depending on the OS you are on, please follow the instrunctions in the respective section.
+
 ## MacOS
 
 For MacOS, follow the instructions on [this](./instructions/macos-installation.md) document.

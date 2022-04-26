@@ -1,6 +1,6 @@
 # Installfest
 
-Here you will find the different set of instuctions for your installation. Depending on the OS you are on, please follow the instrunctions in the respective section.
+Here you will find the different set of instuctions for your installation. Depending on the OS you are on, please follow the instructions in the respective section.
 
 ## MacOS
 

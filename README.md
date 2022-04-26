@@ -10,9 +10,9 @@ For MacOS, follow the instructions in [this](./instructions/macos-installation.m
 
 ## Windows
 
-For Windows, follow the instructions in [this](./instructions/windows-intallation.md) document.
+For Windows, follow the instructions in [this](https://github.com/wuzhixiang88/GA_Projects/tree/main/installfest_windows) document.
 
-Unfortunately, I am not a windows user. This document though, was written by one of the students in my previous batch. and he has run the same set of instructions a couple of times. So I would think it will be good enough for you to set up your environment.
+Unfortunately, I am not a windows user. This document though, was written by one of the students from my previous batch. and he has run the same set of instructions a couple of times. So I would think it will be good enough for you to set up your environment.
 
 ## Text Editor
 

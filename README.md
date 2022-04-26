@@ -2,6 +2,8 @@
 
 Here you will find the different set of instuctions for your installation. Depending on the OS you are on, please follow the instructions in the respective section.
 
+Before you get started, here is an **IMPORTANT** point to note. At any point when you are prompted to enter a password, what you type will not be reflected on the `Terminal` app (for MacOS) or `WSL` app (for windows). Please remember whatever password you are typing!
+
 ## MacOS
 
 For MacOS, follow the instructions in [this](./instructions/macos-installation.md) document.

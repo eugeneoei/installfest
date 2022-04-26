@@ -4,11 +4,11 @@ Here you will find the different set of instuctions for your installation. Depen
 
 ## MacOS
 
-For MacOS, follow the instructions on [this](./instructions/macos-installation.md) document.
+For MacOS, follow the instructions in [this](./instructions/macos-installation.md) document.
 
 ## Windows
 
-For Windows, follow the instructions on [this](./instructions/windows-intallation.md) document.
+For Windows, follow the instructions in [this](./instructions/windows-intallation.md) document.
 
 Unfortunately, I am not a windows user. This document though, was written by one of the students in my previous batch. and he has run the same set of instructions a couple of times. So I would think it will be good enough for you to set up your environment.
 

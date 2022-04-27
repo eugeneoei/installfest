@@ -9,8 +9,11 @@ Open `Terminal` app.
 
 On the `Terminal` app, paste the following command:
 
-```bash
+<!-- ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+``` -->
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
 
 then hit enter on your keyboard.

@@ -79,7 +79,7 @@ Similarly, the version number does not matter.
 On the `Terminal` app, paste the following command:
 
 ```bash
-brew install python@3.9
+brew install python@3
 ```
 
 This installs `python3` which will be covered in unit 4.
